@@ -1,0 +1,16 @@
+C:\Users\tonimihajlovski\source\repos\OdeToFood\OdeToFodd.Core\bin\Debug\netcoreapp3.0\OdeToFodd.Core.deps.json
+C:\Users\tonimihajlovski\source\repos\OdeToFood\OdeToFodd.Core\bin\Debug\netcoreapp3.0\OdeToFodd.Core.dll
+C:\Users\tonimihajlovski\source\repos\OdeToFood\OdeToFodd.Core\bin\Debug\netcoreapp3.0\OdeToFodd.Core.pdb
+C:\Users\tonimihajlovski\source\repos\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.csprojAssemblyReference.cache
+C:\Users\tonimihajlovski\source\repos\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.AssemblyInfoInputs.cache
+C:\Users\tonimihajlovski\source\repos\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.AssemblyInfo.cs
+C:\Users\tonimihajlovski\source\repos\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.dll
+C:\Users\tonimihajlovski\source\repos\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.pdb
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFodd.Core\bin\Debug\netcoreapp3.0\OdeToFodd.Core.deps.json
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFodd.Core\bin\Debug\netcoreapp3.0\OdeToFodd.Core.dll
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFodd.Core\bin\Debug\netcoreapp3.0\OdeToFodd.Core.pdb
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.csprojAssemblyReference.cache
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.AssemblyInfoInputs.cache
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.AssemblyInfo.cs
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.dll
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFodd.Core\obj\Debug\netcoreapp3.0\OdeToFodd.Core.pdb
