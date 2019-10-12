@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 using OdeToFodd.Core;
+using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace OdeToFood.Data
 {
@@ -21,27 +23,41 @@ namespace OdeToFood.Data
 
         public int Commit()
         {
-            return db.SaveChanges();// this method returns an int that represents the number of rows affected in db
+            return db.SaveChanges();
+            // this method returns an int that represents the number of rows affected in db
         }
 
         public Restaurant Delete(int id)
         {
-            throw new NotImplementedException();
+            var restaurant = GetById(id);
+            if(restaurant != null)
+            {
+                db.Restaurants.Remove(restaurant);
+            }
+            return restaurant;
         }
 
         public Restaurant GetById(int id)
         {
-            throw new NotImplementedException();
+            return db.Restaurants.Find(id);
         }
 
         public IEnumerable<Restaurant> GetRestaurantsByName(string name)
         {
-            throw new NotImplementedException();
+            var query = from r in db.Restaurants
+                        where r.Name.StartsWith(name) || string.IsNullOrEmpty(name)
+                        orderby r.Name
+                        select r;
+
+            return query;
+
         }
 
         public Restaurant Update(Restaurant updatedRestaurant)
         {
-            throw new NotImplementedException();
+            var entity = db.Restaurants.Attach(updatedRestaurant);
+            entity.State = EntityState.Modified;
+            return updatedRestaurant;
         }
     }
 }
