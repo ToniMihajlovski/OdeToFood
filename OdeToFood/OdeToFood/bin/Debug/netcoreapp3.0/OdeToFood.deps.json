@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.0": {
       "OdeToFood/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0",
           "Microsoft.Extensions.Logging.Debug": "3.0.0",
@@ -2014,6 +2015,8 @@
       },
       "OdeToFood.Data/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
           "OdeToFodd.Core": "1.0.0"
         },
         "runtime": {

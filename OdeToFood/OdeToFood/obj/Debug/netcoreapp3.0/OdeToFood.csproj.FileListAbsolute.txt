@@ -240,7 +240,6 @@ C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.0\O
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.csprojAssemblyReference.cache
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\staticwebassets\OdeToFood.StaticWebAssets.Manifest.cache
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\staticwebassets\OdeToFood.StaticWebAssets.xml
-C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.RazorAssemblyInfo.cache
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.RazorAssemblyInfo.cs
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.AssemblyInfoInputs.cache
@@ -264,3 +263,4 @@ C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\O
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.csproj.CopyComplete
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.dll
 C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.pdb
+C:\Users\tonimihajlovski\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.0\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
